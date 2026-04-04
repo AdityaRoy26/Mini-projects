@@ -1,6 +1,0 @@
-f=open("dexter.txt","r")
-print("filename:",f.name)
-print("mode",f.mode)
-print("is closed",f.closed )
-f.close()
-print("is closed",f.closed)
