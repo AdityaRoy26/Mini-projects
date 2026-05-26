@@ -1,55 +1,41 @@
-🚀 Mini Projects Repository
+Mini Projects Repository
+A living record of learning — one project at a time.
 
-Welcome to my Mini Projects Repository!
+About This Repository
+This repository is my personal learning lab — a growing collection of mini projects built as I explore new technologies, concepts, and problem-solving approaches across the world of software and data.
+Each project here represents something I learned, practiced, and implemented hands-on. No tutorials copied — just ideas executed.
 
-This repository is a collection of projects that I build while learning new technologies, concepts, and programming skills.
-As I continue exploring different fields in tech, I’ll keep adding new projects here based on whatever I learn along the way.
+What's Inside
+Projects in this repository span a range of domains, including but not limited to:
+DomainTopicsPythonCore programming, OOP, scriptingData AnalysisExploratory analysis, data wranglingData VisualizationCharts, graphs, dashboardsMachine LearningModels, pipelines, experimentsWeb DevelopmentFrontend/backend mini appsAutomationScripts, bots, workflow toolsFile HandlingCSV processing, file I/OLogic & Problem SolvingAlgorithms, patterns, challenges
 
-📚 What You’ll Find Here
+Each project folder contains its own README.md explaining the concept, tools used, and how to run it.
 
-This repository may include projects related to:
+Technologies & Tools
+Languages     →  Python
 
-🐍 Python Programming
-📊 Data Analysis
-📈 Data Visualization
-🤖 Machine Learning
-🌐 Web Development
-💻 Problem Solving
-🧠 Logic Building
-⚡ Automation
-📂 CSV & File Handling
-And many more...
-🎯 Purpose of This Repository
+Libraries     →  Pandas · NumPy · Matplotlib · Scikit-learn
+Tools         →  Jupyter Notebook · Git · GitHub
+More to come  →  As I keep learning...
 
-The main goal of this repository is to:
+Purpose
 
-Practice and improve my coding skills
-Learn by building projects
-Document my learning journey
-Experiment with new technologies
-Share my progress publicly
+Practice real coding through hands-on builds
+Document my learning journey publicly
+Experiment freely with new tools and ideas
+Build a portfolio of practical work over time
+Share progress and stay accountable
 
-Every project here represents something new that I learned and implemented practically.
+What's Next
+This repository is always evolving. Upcoming additions will include:
 
-🛠️ Technologies I’m Exploring
-Python
-Pandas
-NumPy
-Matplotlib
-Git & GitHub
-Jupyter Notebook
-More coming soon...
-🚀 Future Plans
+More structured project directories
+Advanced ML and data science experiments
+Web development mini-apps
+Automation scripts for real-world tasks
+Cleaner code and better documentation as I improve
 
-I’ll continue updating this repository with:
-
-New mini projects
-Better project structures
-More advanced concepts
-Creative ideas and experiments
-👨‍💻 Author
+Author
 Aditya Roy
-
-Learning • Building • Exploring 🚀
-
-GitHub: AdityaRoy26
+Learning · Building · Exploring
+If you find something useful here, feel free to star the repo — it means a lot!
